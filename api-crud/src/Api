@@ -1,0 +1,3 @@
+post = https://657c4a59853beeefdb991bd2.mockapi.io/todos
+delete = https://657c4a59853beeefdb991bd2.mockapi.io/todos/
+get = https://657c4a59853beeefdb991bd2.mockapi.io/todos
